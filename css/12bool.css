@@ -92,7 +92,7 @@
   .col-xs-offset-2 {
     margin-left: calc(100%/12*2);
   }
-  .col-xs-offset-2 {
+  .col-xs-offset-3 {
     margin-left: calc(100%/12*3);
   }
   .col-xs-offset-4 {
@@ -173,7 +173,7 @@
   .col-md-offset-2 {
     margin-left: calc(100%/12*2);
   }
-  .col-md-offset-2 {
+  .col-md-offset-3 {
     margin-left: calc(100%/12*3);
   }
   .col-md-offset-4 {
@@ -254,7 +254,7 @@
   .col-lg-offset-2 {
     margin-left: calc(100%/12*2);
   }
-  .col-lg-offset-2 {
+  .col-lg-offset-3 {
     margin-left: calc(100%/12*3);
   }
   .col-lg-offset-4 {
