@@ -66,21 +66,21 @@ h1 , h3 {
   .container-grey {
     background-color: yellow;
   }
-  #lezioni .col-md-5 {
+  #lezioni .col-xs-5 {
     padding: 25px 0;
     border-bottom: 1px solid black;
   }
-  #lezioni .col-md-5 p {
+  #lezioni .col-sx-5 p {
     padding: 0 200px;
   }
-  #steps .col-md-6 {
+  #steps .col-sx-6 {
     padding: 25px 0;
     border-bottom: 1px solid black;
   }
-  #steps .col-md-6 p {
+  #steps .col-sx-6 p {
     padding: 0 200px;
   }
-  #why .col-md-12 p {
+  #why .col-sx-12 p {
     padding: 25px 100px;
   }
 
